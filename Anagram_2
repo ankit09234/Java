@@ -20,7 +20,7 @@ public class Anagram3 {
 			a[index]--;
 		}
 		for(int i=0;i<256;i++) {
-			if(a[i]!=0) {
+			if(a[i]=0) {
 				isAnagram=false;
 				break;
 			}
